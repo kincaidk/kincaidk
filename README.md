@@ -11,7 +11,7 @@ AfkThankU.itch.io
 - You can reach me here:
 Kellenceo@gmail.com
 
-- I mostly use GML in GameMaker Studio 2.
+- I mostly use GML in GameMaker.
 - I'm interested in learning Unity since I have a C# background.
 - I'm also into Ruby, JavaScript (npm), & Python
 
